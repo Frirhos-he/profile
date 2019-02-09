@@ -29,7 +29,4 @@
   margin-left: 0px;
 }
 
-
-.icon-linkedin:before { content: "\f104"; }
-.icon-instagram:before { content: "\f105"; }
-.flaticon-github-logo:before { content: "\f106"; }
+.flaticon-github-logo:before { content: "\f104"; }
